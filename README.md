@@ -1,5 +1,5 @@
-#TOP Project: Store
+# TOP Project: Store
 
-Hello my name is James Sims.
+Hi, My name is James Sims.
 
-This is my Store TOP project using Ruby on Rails!
+This is my very first ROR (ruby on rails) project with TOP. I am really enjoying using rails.
